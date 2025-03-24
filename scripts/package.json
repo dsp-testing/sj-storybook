@@ -167,7 +167,7 @@
     "rollup": "^4.21.0",
     "rollup-plugin-dts": "^6.1.1",
     "semver": "^7.6.2",
-    "serve-static": "^1.15.0",
+    "serve-static": "^1.16.0",
     "simple-git": "^3.25.0",
     "slash": "^3.0.0",
     "sort-package-json": "^2.10.0",
