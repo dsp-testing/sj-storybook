@@ -40,7 +40,7 @@
     "prep": "jiti  ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@babel/core": "^7.24.4",
+    "@babel/core": "^7.29.6",
     "@babel/types": "^7.24.0",
     "@storybook/codemod": "workspace:*",
     "@types/semver": "^7.3.4",
